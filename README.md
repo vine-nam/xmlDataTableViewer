@@ -8,7 +8,6 @@ xmlData를 table로 보여주는 프로그램입니다.
 ```bash
 cd xmlDataTableViewer
 npm install
-npm run dev
 ```
 
 그리고 실행하기:
